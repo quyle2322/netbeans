@@ -9,5 +9,5 @@ package sof2041slide3;
  * @author Truong
  */
 public class NewClass1 {
-    
+    main
 }
