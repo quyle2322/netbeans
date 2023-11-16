@@ -4,10 +4,14 @@
  */
 package sof2041slide3;
 
+import javax.xml.transform.Source;
+
 /**
  *
  * @author Truong
  */
 public class NewClass {
-    
+    public static void main(String[] args) {
+        System.out.println("Hello");
+    }
 }
