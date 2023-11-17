@@ -47,7 +47,7 @@ public class NewClass extends JFrame{
         tm.start();
         setLayout(null);
         setSize(800, 400);
-        getContentPane().setBackground(Color.decode("#bdb67b"));
+//        getContentPane().setBackground(Color.decode("#bdb67b"));
         setLocationRelativeTo(null);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setVisible(true);
